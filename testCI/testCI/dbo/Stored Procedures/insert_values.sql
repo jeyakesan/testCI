@@ -42,3 +42,5 @@ as
 -- comment from feature 2 branch
 
 -- Comment for testing CI
+
+-- Comment from Feature BR2 for CI
