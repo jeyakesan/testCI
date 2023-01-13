@@ -1,0 +1,87 @@
+14-01-2023 02:27:11	This log contains information about the import schema operation into project 'testCI' on computer 'LAPTOP-FRQLP5B9' by user 'Jeyakesan'.
+14-01-2023 02:27:11	Import of database schema has started.
+14-01-2023 02:27:23	Gathering database credentials
+14-01-2023 02:27:23	Gathering database options
+14-01-2023 02:27:23	Gathering generic database scoped configuration option
+14-01-2023 02:27:23	Gathering users
+14-01-2023 02:27:23	Gathering roles
+14-01-2023 02:27:23	Gathering application roles
+14-01-2023 02:27:23	Gathering role memberships
+14-01-2023 02:27:23	Gathering filegroups
+14-01-2023 02:27:23	Gathering full-text catalogs
+14-01-2023 02:27:23	Gathering assemblies
+14-01-2023 02:27:23	Gathering certificates
+14-01-2023 02:27:23	Gathering asymmetric keys
+14-01-2023 02:27:23	Gathering symmetric keys
+14-01-2023 02:27:23	Gathering encrypted symmetric keys
+14-01-2023 02:27:23	Gathering schemas
+14-01-2023 02:27:23	Gathering XML schema collections
+14-01-2023 02:27:23	Gathering user-defined data types
+14-01-2023 02:27:23	Gathering user-defined types
+14-01-2023 02:27:23	Gathering table types
+14-01-2023 02:27:23	Gathering unique keys for table types
+14-01-2023 02:27:23	Gathering primary keys for table types
+14-01-2023 02:27:23	Gathering indexes for table types
+14-01-2023 02:27:23	Gathering check constraints for table types
+14-01-2023 02:27:23	Gathering default constraints for table types
+14-01-2023 02:27:23	Gathering partition functions
+14-01-2023 02:27:23	Gathering partition schemes
+14-01-2023 02:27:23	Gathering functions
+14-01-2023 02:27:23	Gathering encrypted functions
+14-01-2023 02:27:23	Gathering aggregates
+14-01-2023 02:27:23	Gathering procedures
+14-01-2023 02:27:23	Gathering encrypted procedures
+14-01-2023 02:27:23	Gathering tables
+14-01-2023 02:27:23	Gathering primary keys
+14-01-2023 02:27:23	Gathering unique constraints
+14-01-2023 02:27:23	Gathering foreign keys
+14-01-2023 02:27:23	Gathering default constraints
+14-01-2023 02:27:23	Gathering check constraints
+14-01-2023 02:27:23	Gathering views
+14-01-2023 02:27:23	Gathering encrypted views
+14-01-2023 02:27:23	Gathering indexes
+14-01-2023 02:27:23	Gathering statistics
+14-01-2023 02:27:23	Gathering full-text index stoplists
+14-01-2023 02:27:23	Gathering search property lists
+14-01-2023 02:27:23	Gathering search properties
+14-01-2023 02:27:23	Gathering full-text indexes
+14-01-2023 02:27:23	Gathering column store indexes
+14-01-2023 02:27:23	Gathering spatial indexes
+14-01-2023 02:27:23	Gathering XML indexes
+14-01-2023 02:27:23	Gathering Selective XML indexes
+14-01-2023 02:27:23	Gathering encrypted triggers
+14-01-2023 02:27:23	Gathering triggers
+14-01-2023 02:27:23	Gathering encrypted and clr ddl triggers
+14-01-2023 02:27:23	Gathering ddl triggers
+14-01-2023 02:27:23	Creating edge constraints
+14-01-2023 02:27:23	Gathering synonyms
+14-01-2023 02:27:23	Gathering defaults
+14-01-2023 02:27:23	Gathering data constraint uddt bindings
+14-01-2023 02:27:23	Gathering rules
+14-01-2023 02:27:23	Gathering data constraint uddt bindings
+14-01-2023 02:27:23	Gathering message types
+14-01-2023 02:27:23	Gathering queues
+14-01-2023 02:27:23	Gathering contracts
+14-01-2023 02:27:23	Gathering services
+14-01-2023 02:27:23	Gathering event notifications
+14-01-2023 02:27:23	Gathering remote service bindings
+14-01-2023 02:27:23	Gathering broker priorities
+14-01-2023 02:27:23	Gathering signatures
+14-01-2023 02:27:23	Gathering data compression options
+14-01-2023 02:27:23	Gathering sequence types
+14-01-2023 02:27:23	Gathering security policies
+14-01-2023 02:27:23	Gather column encryption keys
+14-01-2023 02:27:24	Gathering column master keys
+14-01-2023 02:27:24	Gathering external data sources
+14-01-2023 02:27:24	Gathering external file formats
+14-01-2023 02:27:24	Gathering external tables
+14-01-2023 02:27:24	Gathering extended properties
+14-01-2023 02:27:24	Gathering assemblies
+14-01-2023 02:27:24	Gathering credentials
+14-01-2023 02:27:24	Gathering logins
+14-01-2023 02:27:24	Gathering server audits
+14-01-2023 02:27:24	Scanning project for duplicate elements
+14-01-2023 02:27:24	Finished duplicate element processing
+14-01-2023 02:27:24	Finished importing database.
+14-01-2023 02:27:24	A summary of the import was saved to the following location: C:\Users\Jeyakesan\source\repos\testCI\testCI\testCI\Import Schema Logs\testCI_20230113085711.log
+14-01-2023 02:27:24	Click Finish to continue...
