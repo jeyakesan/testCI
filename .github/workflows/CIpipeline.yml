@@ -1,0 +1,16 @@
+name: Build and Test
+
+on: [push, pull_request]
+
+jobs:
+  runchecks:
+    name: "Run Liquibase Quality Checks"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ./
+        with:
+          operation: 'checks run'
+          changeLogFile: 'mychangelog.sql'
+          checksSettingsFile: 'liquibasech.conf'
+          proLicenseKey: ${{ secrets.PRO_LICENSE_KEY }}
